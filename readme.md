@@ -21,7 +21,8 @@ Lista de tecnologías pre-requisitos mínimos para que el proyecto funcione loca
 - Apache Tomcat 10.0.27
 
 ## GitHub de cada alumno
-- 
+- Juan Pablo Vásquez
+- https://github.com/pablovasquezv/SprintModulo_5 
 
 #### README UPDATE
 * *** Juan Pablo Vásquez*** - *26-07-2023*
